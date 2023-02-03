@@ -1,9 +1,6 @@
 package com.example.actnowthinklater;
 
-import Shape
 
-class Circle extends Shape {
-    Circle() {
-        super();
-    }
+public class Circle extends Shape {
+
 }
