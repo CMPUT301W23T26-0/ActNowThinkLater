@@ -1,6 +1,6 @@
 package com.example.actnowthinklater;
 
-public abstract class Shape {
+public class Hexagon extends Shape {
     int x;
     int y;
 }
